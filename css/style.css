@@ -1,0 +1,283 @@
+body{
+    background-image: url(../image/images\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: cover;
+    position: relative;
+}
+.mainContent{
+    width: 50%;
+    /* height: 3000px; */
+    position: absolute;
+    left: 25%;
+    top: 0px;
+    right: 25%;
+
+}
+.navAndHeading{
+    position: sticky;
+    top: 0;
+    height: 70px;
+    padding-left:50% ;
+    background-color: white;
+    position: relative;
+}
+.heading{
+    display: inline-block;
+    position:absolute;
+    left: 50px;
+    top: 0px;
+}
+.navBar{
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    top: 25px;
+}
+.navItem{
+    color: gray;
+}
+.image1{
+    height: 500px;
+    background-image: url(../image/images\ \(3\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.imageText{
+    position: absolute;
+    left: 27%;
+    top: 160px;
+    color: white;
+    font-size: 50px;
+    
+
+}
+.imageText1{
+    position: absolute;
+    left: 39%;
+    top: 300px;
+    color: white;
+
+}
+.textAlign{
+    text-align: center;
+}
+.programPupular{
+    background-color: white;
+    height: 200px;
+    /* position: relative; */
+}
+.image2{
+    display: inline-block;
+    background-image: url(../image/images\ \(2\).jpg);
+    background-size: cover;
+    width: 15vw;
+    height: 40vh;
+    /* position: relative;
+    top: 250px;
+    left: 5%; */
+    /* border: 2px solid red; */
+    margin-left: 1%;
+}
+.image3{
+    display: inline-block;
+    background-image: url(../image/images\ \(1\).jpg);
+    background-size: cover;
+    width: 15vw;
+    height: 40vh;
+    /* position: relative;
+    top: 250px;
+    left: 18%; */
+    /* border: 2px solid red; */
+    margin-left: 1%;
+}
+.image4{
+    display: inline-block;
+    background-image: url(../image/images\ \(3\).jpg);
+    background-size: cover;
+    width: 15vw;
+    height: 40vh;
+    /* position: relative;
+    top: 250px;
+    left: 31%; */
+    /* border: 2px solid red; */
+    margin-left: 1%;
+}
+.textImage{
+    height: 170px;
+    position: relative;
+    background-color: white;
+   
+}
+.textImage2{
+    width: 15vw;
+    height: 20vh;
+    position: absolute;
+    left: 1%;
+    top: 0px;
+    display: inline-block;
+    background-color: whitesmoke;
+}
+.textImage3{
+    width: 15vw;
+    height: 20vh;
+    position: absolute;
+    left: 34%;
+    top: 0;
+    display: inline-block;
+    background-color: whitesmoke;
+}
+.textImage4{
+    width: 15vw;
+    height: 20vh;
+    position: absolute;
+    left: 66%;
+    top: 0;
+    display: inline-block;
+    background-color: whitesmoke;
+}
+.club{
+    height:600px;
+    background-color: white;
+    position: relative;
+
+}
+.clubImage{
+    display: inline-block;
+    width: 47%;
+    height: 300px;
+    background-image: url(../image/images\ \(10\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top:150px;
+    left:2%; 
+
+
+
+}
+.clubText{
+    width: 47%;
+    display: inline-block;
+    position: absolute;
+    top: 150px;
+    left: 53%;
+
+}
+.Buttons{
+    color: coral;
+    border-color: coral;
+}
+.Trainer{
+    height: 600px;
+    /* background-image: url(../image/images\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat; */
+    background-color: gray;
+    position: relative;
+    opacity: 0.6;
+}
+.trainerBody{
+    text-align: center;
+    color: white;
+}
+.imageTrainer{
+    width: 25%;
+    height: 25%;
+     background-image: url(../image/img_4.jpg.webp); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    position: absolute;
+    top: 250px;
+    left: 38%;
+
+}
+.textTrainer{
+    position: absolute;
+    top:450px;
+    left: 15%;
+    right: 15%;
+}
+.headings{
+    position: absolute;
+    top:150px;
+    left: 25%;
+
+}
+.buttonTrainer{
+    background-color: coral;
+    color: white;
+    position: absolute;
+    left :38%;
+    bottom: 10%;
+}
+.trainerBody h1{
+    position: absolute;
+    top: 5%;
+    left: 25%;
+}
+.exercise{
+    height: 700px;
+    background-color: white;
+   
+
+}
+.heading1{
+    text-align: center;
+}
+.box1{
+    width: 25%;
+    height: 150px;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px;
+    display: inline-block;
+}
+.box2{
+    width: 25%;
+    height: 150px;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px;
+    display: inline-block;
+}
+.box3{
+    width: 25%;
+    height: 150px;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px;
+    display: inline-block;
+}
+.box{
+    width: 25%;
+    height: 150px;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px;
+    display: inline-block;
+}
+.box5{
+    width: 25%;
+    height: 150px;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px;
+    display: inline-block;
+}
+.box6{
+    width: 25%;
+    height: 150px;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px;
+    display: inline-block;
+}
+.line{
+    width: 10px;
+    height: 2px;
+    border-bottom: 2px solid orange;
+}
